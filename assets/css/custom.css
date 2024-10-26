@@ -426,10 +426,12 @@
 	display: flex;
 	width: 100%;
 	justify-content: space-around;
+	margin-left:0px;
+	margin-right:0px;
 }
 
 .cnt-info-item {
-	width: calc(100%/3 - 20px);
+	/* width: calc(100%/3 - 20px); */
 }
 
 .single-corporate-office-style1:hover {
